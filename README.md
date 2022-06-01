@@ -2,7 +2,7 @@ Brick Breaker Game is a Java-based game that consists of bricks aligned at the t
 <br>
 <br>
 Starting Game Window - 
-![](https://user-images.githubusercontent.com/55207479/171373104-61d5921f-c91e-45e6-bf6e-896bc759e713.png)
+<img src="https://user-images.githubusercontent.com/55207479/171373104-61d5921f-c91e-45e6-bf6e-896bc759e713.png">
 
 <br>
 Game Playing Window - 
